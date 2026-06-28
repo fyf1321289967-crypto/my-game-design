@@ -2,3 +2,9 @@
 {"dg-publish":true,"permalink":"/mechanism/greed/","tags":["mechanism"],"dg-note-properties":{"tags":["mechanism"]}}
 ---
 
+# 增长
+单局累计，单局结束清零。
+随捡起[[enemy/normalenemy\|normalenemy]]掉落的金币增长，每捡起1金币，贪欲值增加1。
+贪欲值超过500直接暴毙，失去当前单局获取的所有token。
+# 影响
+影响游戏走向

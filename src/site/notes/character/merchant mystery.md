@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/character/merchant-mystery/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
+---
+
+# 角色介绍
+很神秘，谁也不知道他的真面目。
+实际上是上一轮赌博宇宙的自己，但靠玩家自己感觉出来。
+如果上局死在某一minigarden，在进入这一minigarden时，会弹出对话“这次一定要小心”。
+如果上局通关就啥也不说
+# 售卖物品
+从每个minigarden出来时，随机新陈列三件物品
+## 万用扑克
+15金币
+自选任意位置加入，可代表任意点数任意花色
