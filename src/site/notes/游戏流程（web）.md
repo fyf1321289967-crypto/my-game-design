@@ -16,4 +16,4 @@
 - [[场景/minigarden4\|minigarden4]] · 无名指boss [[敌人/无名指boss：Vesper\|无名指boss：Vesper]]
 - [[场景/minigarden5\|minigarden5]] · 小指boss [[敌人/小指：Mercury\|小指：Mercury]]
 
-> 收集全部手指后 → 判定 [[贪欲\|贪欲]] 值及携带 [[角色/Evander\|Evander]] 的情况 → 多重结局
+> 收集全部手指后 → 判定 [[机制/贪欲\|贪欲]] 值及携带 [[角色/Evander\|Evander]] 的情况 → 多重结局
