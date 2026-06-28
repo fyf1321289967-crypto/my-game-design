@@ -8,4 +8,4 @@
 [[场景/minigarden3\|minigarden3]]
 [[场景/minigarden4\|minigarden4]]
 [[场景/minigarden5\|minigarden5]]
-[[角色/神秘商人\|神秘商人]]
+[[神秘商人\|神秘商人]]
