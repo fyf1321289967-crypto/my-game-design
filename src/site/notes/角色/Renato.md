@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character/renato/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
+{"dg-publish":true,"permalink":"/renato/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
 ---
 
 

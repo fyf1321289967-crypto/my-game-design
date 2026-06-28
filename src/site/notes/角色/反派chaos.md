@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character/chaos/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
+{"dg-publish":true,"permalink":"/chaos/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
 ---
 
 

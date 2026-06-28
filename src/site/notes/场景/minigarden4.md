@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scene/minigarden4/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"/minigarden4/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 # 关底boss：Ring boss 无名指[[敌人/无名指boss：Vesper\|无名指boss：Vesper]]
