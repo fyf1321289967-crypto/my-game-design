@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/startmenu/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"//startmenu/","dg-note-properties":{}}
 ---
 
 #scene

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minigarden1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"//minigarden1/","dg-note-properties":{}}
 ---
 
 #scene

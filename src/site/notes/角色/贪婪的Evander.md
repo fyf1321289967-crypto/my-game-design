@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/greedy-evander/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"//evander/","dg-note-properties":{}}
 ---
 

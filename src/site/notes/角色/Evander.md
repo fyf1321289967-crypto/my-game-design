@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evander/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"//evander/","dg-note-properties":{}}
 ---
 
 #character 

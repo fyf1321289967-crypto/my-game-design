@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minigarden3/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"//minigarden3/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 # 关底boss：Middle boss 中指[[敌人/中指boss：Goliath\|中指boss：Goliath]]

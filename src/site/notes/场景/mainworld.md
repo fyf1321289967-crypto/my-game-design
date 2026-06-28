@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mainworld/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"//mainworld/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 # 场景构成

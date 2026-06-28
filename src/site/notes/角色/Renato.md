@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/renato/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
+{"dg-publish":true,"permalink":"//renato/","tags":["character"],"dg-note-properties":{"tags":["character"]}}
 ---
 
 
@@ -9,7 +9,7 @@
 48岁，曾是一名战无不胜的牌手，
 ## 关键经历
 自己的朋友[[角色/Evander\|Evander]]参与一个神秘牌局由[[角色/反派chaos\|反派chaos]]组局后悄无声息
-只身前往与神秘庄家 [[Chaos\|Chaos]] 对赌，输掉十指与灵魂，被卷入赌博宇宙。
+只身前往与神秘庄家[[角色/反派chaos\|反派chaos]] 对赌，输掉十指与灵魂，被卷入赌博宇宙。
 后续解救朋友Evander，但还是没有赢回灵魂，俩人合力继续无尽的和[[角色/反派chaos\|反派chaos]]战斗。
 ## 能力
 可以将扑克牌转化为能量子弹。
