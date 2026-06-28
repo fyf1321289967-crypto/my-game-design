@@ -10,8 +10,8 @@
 ### 角色切换
 [[角色/Renato\|Renato]]
 [[角色/Evander\|Evander]]
-[[角色/贪婪的Renato\|贪婪的Renato]]
-[[角色/贪婪的Evander\|贪婪的Evander]]
+[[角色/greedy Renato\|greedy Renato]]
+[[角色/greedy Evander\|greedy Evander]]
 ## 局外加成（以吧台表现）
 ### 生命值加点
 （0/5）
