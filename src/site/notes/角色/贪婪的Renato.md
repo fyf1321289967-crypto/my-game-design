@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"//renato/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/character/greedy-renato/","dg-note-properties":{}}
 ---
 

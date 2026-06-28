@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//mercury/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/mercury/","dg-note-properties":{}}
 ---
 
 #enemy 

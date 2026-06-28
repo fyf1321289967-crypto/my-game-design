@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//casinoscene/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"/scene/casinoscene/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 

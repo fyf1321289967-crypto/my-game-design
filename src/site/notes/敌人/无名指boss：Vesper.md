@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//boss-vesper/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/boss-vesper/","dg-note-properties":{}}
 ---
 
 #enemy 

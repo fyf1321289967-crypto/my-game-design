@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//minigarden5/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"/scene/minigarden5/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 # 关底boss：Pinky boss 小指[[敌人/小指：Mercury\|小指：Mercury]]

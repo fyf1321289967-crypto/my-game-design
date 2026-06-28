@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//boss-legion/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/boss-legion/","dg-note-properties":{}}
 ---
 
 #enemy

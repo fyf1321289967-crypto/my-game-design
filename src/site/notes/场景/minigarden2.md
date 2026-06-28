@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//minigarden2/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
+{"dg-publish":true,"permalink":"/scene/minigarden2/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
 # 关底boss：Index boss 食指[[敌人/食指boss：Legion\|食指boss：Legion]]

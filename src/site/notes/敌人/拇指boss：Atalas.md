@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//boss-atalas/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/boss-atalas/","dg-note-properties":{}}
 ---
 
 #enemy

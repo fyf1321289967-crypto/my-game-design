@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//normalenemy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/normalenemy/","dg-note-properties":{}}
 ---
 
 #enemy 
