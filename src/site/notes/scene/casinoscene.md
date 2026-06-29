@@ -10,8 +10,7 @@
 ### 角色切换
 [[character/Renato\|Renato]]
 [[character/Evander\|Evander]]
-[[greedy Renato\|greedy Renato]]
-[[greedy Evander\|greedy Evander]]
+
 ## 局外加成（以吧台表现）
 ### 生命值速度加点
 | 升级项    |   每级加成   | 最高等级 |  满级总加成   |
