@@ -16,4 +16,4 @@
 - [[scene/minigarden4\|minigarden4]] · 无名指boss [[enemy/ringboss：Vesper\|ringboss：Vesper]]
 - [[scene/minigarden5\|minigarden5]] · 小指boss [[enemy/pinkyboss：Mercury\|pinkyboss：Mercury]]
 
-> 收集全部手指后 → 判定 [[mechanism/greed\|greed]] 值及携带 [[character/Evander\|Evander]] 的情况 → 多重结局
+> 收集全部手指后 → 判定 [[machanism/greed\|greed]] 值及携带 [[character/Evander\|Evander]] 的情况 → 多重结局

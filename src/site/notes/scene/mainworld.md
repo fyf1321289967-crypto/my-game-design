@@ -8,4 +8,4 @@
 [[scene/minigarden3\|minigarden3]]
 [[scene/minigarden4\|minigarden4]]
 [[scene/minigarden5\|minigarden5]]
-[[神秘商人\|神秘商人]]
+[[character/merchant mystery\|merchant mystery]]
