@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enemy/ringboss-vesper/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/ringboss-vesper/","tags":["enemy"],"dg-note-properties":{"tags":["enemy"]}}
 ---
 
-#enemy 
+股票

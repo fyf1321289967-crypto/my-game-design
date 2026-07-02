@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enemy/pinkyboss-mercury/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/pinkyboss-mercury/","tags":["enemy"],"dg-note-properties":{"tags":["enemy"]}}
 ---
 
-#enemy 
+ 柏青哥

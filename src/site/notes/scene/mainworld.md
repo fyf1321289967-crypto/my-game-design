@@ -3,9 +3,9 @@
 ---
 
 # 场景构成
-[[scene/minigarden1\|minigarden1]]
-[[scene/minigarden2\|minigarden2]]
-[[scene/minigarden3\|minigarden3]]
-[[scene/minigarden4\|minigarden4]]
-[[scene/minigarden5\|minigarden5]]
+[[scene/thumbchapter\|thumbchapter]]
+[[scene/indexchapter\|indexchapter]]
+[[scene/midchapter\|midchapter]]
+[[scene/ringchapter\|ringchapter]]
+[[scene/pinkychapter\|pinkychapter]]
 [[character/merchant mystery\|merchant mystery]]
