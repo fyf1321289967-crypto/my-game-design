@@ -3,4 +3,4 @@
 ---
 
 作为[[character/Renato\|Renato]]和[[character/Evander\|Evander]]的可选形态，在[[scene/casinoscene\|casinoscene]]勾选
-当勾选该形态时，技能条可以累计攒
+当勾选该形态时，在火堆回血不再消耗token，但是boss会获得增强。
