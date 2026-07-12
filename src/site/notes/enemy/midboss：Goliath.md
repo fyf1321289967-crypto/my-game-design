@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/enemy/midboss-goliath/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/enemy/midboss-goliath/","tags":["enemy"],"dg-note-properties":{"tags":["enemy"]}}
 ---
 
-#enemy 
+
 老虎机
