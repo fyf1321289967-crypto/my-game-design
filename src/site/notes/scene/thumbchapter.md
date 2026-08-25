@@ -3,9 +3,10 @@
 ---
 
 整个章节围绕着抛硬币这一赌博方式展开。
-拾取[[material/cheatingcoin\|cheatingcoin]]时会出现两个选项（可以一样）,通过抛硬币决定。
+拾取[[material/cheatingcoin\|cheatingcoin]]时会出现两个选项（可以一样）。
 thumbscene1-[[scene/eventscene\|eventscene]]-thumbscene2
 # thumbscene1
+正常不断刷新[[enemy/normalenemy\|normalenemy]] 并在刷新固定数量的[[enemy/coinmonster\|coinmonster]]
 # thumbscene2
 ## 关底boss：Thumb Boss · 大拇指[[enemy/thumbboss：Atalas\|thumbboss：Atalas]]
 

@@ -4,6 +4,7 @@
 
 ringscene1-[[scene/eventscene\|eventscene]]-ringscene2
 # ringscene1
+正常不断刷新[[enemy/normalenemy\|normalenemy]] 并在刷新固定数量的[[enemy/dicemonster\|dicemonster]]
 # ringscene2
 ## 关底boss：Ring boss 无名指[[enemy/ringboss：Vesper\|ringboss：Vesper]]
 
