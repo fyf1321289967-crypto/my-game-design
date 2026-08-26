@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/scene/pinkychapter/","tags":["scene"],"dg-note-properties":{"tags":["scene"]}}
 ---
 
+本章节通过股票构建，在章节开始前可以选择
 pinkyscene1-[[scene/eventscene\|eventscene]]-pinkyscene2
 # pinkyscene1
 正常不断刷新[[enemy/normalenemy\|normalenemy]] 并在刷新固定数量的[[enemy/dicemonster\|dicemonster]]

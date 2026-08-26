@@ -4,7 +4,7 @@
 
 # 增长
 单局累计，单局结束清零。
-随捡起[[enemy/normalenemy\|normalenemy]]掉落的金币增长，每捡起1金币，[[machanism/greed\|greed]]增加1。
+随捡起[[enemy/normalenemy\|normalenemy]]掉落的金币增长，每捡起1金币，[[machanism/greed\|greed]]增加1。（只有通过拾取[[enemy/normalenemy\|normalenemy]]掉落的金币才累计[[machanism/greed\|greed]]）
 当累计获得[[machanism/greed\|greed]]超过100，失去所有单局获得的[[material/token\|token]][[material/blood token\|blood token]][[material/soul token\|soul token]]，解锁[[machanism/greedy\|greedy]]
 累计获得[[machanism/greed\|greed]]超过300直接暴毙，失去当前单局获取的所有[[material/token\|token]]。
 # 影响
