@@ -4,6 +4,6 @@
 
 间隔1s会向玩家射出一枚[[bullet/normal bullet\|normal bullet]]，死后也会向玩家射出一枚[[bullet/normal bullet\|normal bullet]]
 
-| 生命  | 接触伤害 | 移速  |
-| --- | ---- | --- |
-| 100 | 20   |     |
+| 生命  | 接触伤害 | 移速  | 防御倍率 |
+| --- | ---- | --- | ---- |
+| 100 | 20   |     | 1    |
